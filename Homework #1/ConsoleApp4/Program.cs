@@ -52,6 +52,29 @@ namespace ConsoleApp4
             result = n / m;
             Console.WriteLine(result);
             Console.ReadLine();
+            
+            
+            // BONUS EXERCISE!
+            Console.WriteLine("Enter a given number:");
+            var number = Console.ReadLine();
+
+            int oddoreven;
+            bool isoddoreven = int.TryParse(number, out oddoreven);
+
+            if ((isoddoreven) && (oddoreven % 2 == 0))
+            {
+                Console.WriteLine("Number " + oddoreven + " is even");
+            }
+            else if (((isoddoreven) && (oddoreven % 2 != 0)))
+            {
+                Console.WriteLine("The number " + oddoreven + " is odd");
+            }
+            else
+            {
+                Console.WriteLine("Enter a valid number");
+            }
+
+            Console.ReadLine();
 
         }
     }
