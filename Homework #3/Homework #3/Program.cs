@@ -40,7 +40,7 @@ namespace ConsoleApp6
             //EXERCISE #2 (a) even numbers from 2 to given numben
 
             int x;
-            //Console.WriteLine("Find out all even numbers from 2 to :");
+            Console.WriteLine("Find out all even numbers from 2 to :");
             x = Convert.ToInt32(Console.ReadLine());
 
 
@@ -58,7 +58,7 @@ namespace ConsoleApp6
 
             // EXERCISE #2 (b) all even numbers from given number to 2
 
-            int y;
+            //int y;
             Console.WriteLine("Find out all even numbers to 2: ");
             //y = Convert.ToInt32(Console.ReadLine());
 
