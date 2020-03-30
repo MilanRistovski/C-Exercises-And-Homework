@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Object_Classes_Homework_1\Object_Classes_Homework_1\obj\Debug\Object_Classes_Homework_1.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Object_Classes_Homework_1\Object_Classes_Homework_1\obj\Debug\Object_Classes_Homework_1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Object_Classes_Homework_1\Object_Classes_Homework_1\bin\Debug\Object_Classes_Homework_1.exe.config
+C:\Users\HP\source\repos\Object_Classes_Homework_1\Object_Classes_Homework_1\bin\Debug\Object_Classes_Homework_1.exe
+C:\Users\HP\source\repos\Object_Classes_Homework_1\Object_Classes_Homework_1\bin\Debug\Object_Classes_Homework_1.pdb
+C:\Users\HP\source\repos\Object_Classes_Homework_1\Object_Classes_Homework_1\obj\Debug\Object_Classes_Homework_1.exe
+C:\Users\HP\source\repos\Object_Classes_Homework_1\Object_Classes_Homework_1\obj\Debug\Object_Classes_Homework_1.pdb
