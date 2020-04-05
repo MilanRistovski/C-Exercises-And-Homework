@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Homework_Class6\Homework_Class6\bin\Debug\Homework_Class6.exe.config
+C:\Users\HP\source\repos\Homework_Class6\Homework_Class6\bin\Debug\Homework_Class6.exe
+C:\Users\HP\source\repos\Homework_Class6\Homework_Class6\bin\Debug\Homework_Class6.pdb
+C:\Users\HP\source\repos\Homework_Class6\Homework_Class6\obj\Debug\Homework_Class6.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Homework_Class6\Homework_Class6\obj\Debug\Homework_Class6.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Homework_Class6\Homework_Class6\obj\Debug\Homework_Class6.exe
+C:\Users\HP\source\repos\Homework_Class6\Homework_Class6\obj\Debug\Homework_Class6.pdb
+C:\Users\HP\source\repos\Homework6\Homework_Class6\Homework_Class6\bin\Debug\Homework_Class6.exe.config
+C:\Users\HP\source\repos\Homework6\Homework_Class6\Homework_Class6\bin\Debug\Homework_Class6.exe
+C:\Users\HP\source\repos\Homework6\Homework_Class6\Homework_Class6\bin\Debug\Homework_Class6.pdb
+C:\Users\HP\source\repos\Homework6\Homework_Class6\Homework_Class6\obj\Debug\Homework_Class6.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Homework6\Homework_Class6\Homework_Class6\obj\Debug\Homework_Class6.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Homework6\Homework_Class6\Homework_Class6\obj\Debug\Homework_Class6.exe
+C:\Users\HP\source\repos\Homework6\Homework_Class6\Homework_Class6\obj\Debug\Homework_Class6.pdb
