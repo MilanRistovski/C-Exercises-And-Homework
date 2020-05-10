@@ -1,0 +1,13 @@
+C:\Users\Milan CRMT\source\repos\Game Center\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.exe
+C:\Users\Milan CRMT\source\repos\Game Center\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.deps.json
+C:\Users\Milan CRMT\source\repos\Game Center\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.runtimeconfig.json
+C:\Users\Milan CRMT\source\repos\Game Center\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.runtimeconfig.dev.json
+C:\Users\Milan CRMT\source\repos\Game Center\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.dll
+C:\Users\Milan CRMT\source\repos\Game Center\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.pdb
+C:\Users\Milan CRMT\source\repos\Game Center\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.csprojAssemblyReference.cache
+C:\Users\Milan CRMT\source\repos\Game Center\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.csproj.CoreCompileInputs.cache
+C:\Users\Milan CRMT\source\repos\Game Center\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.AssemblyInfoInputs.cache
+C:\Users\Milan CRMT\source\repos\Game Center\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.AssemblyInfo.cs
+C:\Users\Milan CRMT\source\repos\Game Center\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.dll
+C:\Users\Milan CRMT\source\repos\Game Center\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.pdb
+C:\Users\Milan CRMT\source\repos\Game Center\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.genruntimeconfig.cache
