@@ -99,7 +99,17 @@ namespace Game_Center
                                                     (player => player.Age > 30).ToList();
             //playersOlderThan30.ForEach(player => Console.WriteLine(player.FullName));
 
-            // Group players by age ------ ???????????????????????????????????????????????????????????????????????????????????????
+            // Group players by age 
+            
+            var groupPlayersByAge = allPlayers.GroupBy(player => player.Age).ToList();
+            foreach (var group in groupPlayersByAge)
+            {
+                Console.WriteLine($"{group.Key}");
+                foreach (var player in group)
+                {
+                    Console.WriteLine($"------------- {player.FullName}");
+                }
+            }
 
             // Find All players NAMES and PtsPerGame if have RebPerGame > 7.0
             var playersWithRPG7OrBigger = allPlayers.Where
