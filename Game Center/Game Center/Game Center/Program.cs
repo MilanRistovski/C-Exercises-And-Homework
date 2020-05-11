@@ -72,31 +72,36 @@ namespace Game_Center
             // Find all coaches NAMES with Age > 50
 
             var coachesNamesAbove50 = allCoaches.Where
-                                                      (coach => coach.Age > 50).ToList();
+                                                      (coach => coach.Age > 50)
+                                                      .ToList();
             //coachesNamesAbove50.ForEach(coach => Console.WriteLine(coach.FullName));
 
             // Order players by AGE - DESC
 
             var allPlayersByAge = allPlayers.OrderByDescending
-                                                        (player => player.Age).ToList();
+                                                        (player => player.Age)
+                                                        .ToList();
             //allPlayersByAge.ForEach(player => Console.WriteLine(player.FullName));
 
             // Find player with highest RebPerGame
 
             var bestRPG = allPlayers.OrderByDescending
-                                                    (player => player.PlayerStatistic["RebPerGame"]).ToList()[0];
+                                                    (player => player.PlayerStatistic["RebPerGame"])
+                                                    .ToList()[0];
             //Console.WriteLine(bestRPG.FullName);
 
             // Find all players with PtsPerGame > 20
 
             var ptsPGAbove20 = allPlayers.Where
-                                            (player => player.PlayerStatistic["PtsPerGame"] > 20).ToList();
+                                            (player => player.PlayerStatistic["PtsPerGame"] > 20)
+                                            .ToList();
             //ptsPGAbove20.ForEach(player => Console.WriteLine(player.FullName));
 
             // Find all players NAMES older then 30 years
 
             var playersOlderThan30 = allPlayers.Where
-                                                    (player => player.Age > 30).ToList();
+                                                    (player => player.Age > 30)
+                                                    .ToList();
             //playersOlderThan30.ForEach(player => Console.WriteLine(player.FullName));
 
             // Group players by age 
@@ -113,21 +118,23 @@ namespace Game_Center
 
             // Find All players NAMES and PtsPerGame if have RebPerGame > 7.0
             var playersWithRPG7OrBigger = allPlayers.Where
-                                                        (player => player.PlayerStatistic["RebPerGame"] > 7).ToList();
+                                                        (player => player.PlayerStatistic["RebPerGame"] > 7)
+                                                         .ToList();
             //playersWithRPG7OrBigger.ForEach(player => Console.WriteLine(player.FullName));
             //playersWithRPG7OrBigger.ForEach(player => Console.WriteLine(player.PlayerStatistic["PtsPerGame"]));
 
             // Find first 3 players with highest PtsPerGame
 
             var playersWithMostPPG = allPlayers.OrderByDescending(player => player.PlayerStatistic["PtsPerGame"])
-                                                                            .Take(3).Select(player => player.FullName).ToList();
+                                                                            .Take(3).Select(player => player.FullName)
+                                                                            .ToList();
             //playersWithMostPPG.ForEach(player => Console.WriteLine(player));
 
             // Find the team which has the player with highest PtsPerGame
 
             var teamWithBestPPGPlayer = teams.First
                                                    (team => team.Players.Contains(BestPPG));
-            Console.WriteLine(teamWithBestPPGPlayer.Name);
+            // Console.WriteLine(teamWithBestPPGPlayer.Name);
 
             // Find first 4 players with highest RebPerGame and order them by PtsPerGame - ASC
 
