@@ -1,0 +1,13 @@
+C:\Users\Milan CRMT\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\netcoreapp3.1\RockPaperScissorsLizardSpock.exe
+C:\Users\Milan CRMT\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\netcoreapp3.1\RockPaperScissorsLizardSpock.deps.json
+C:\Users\Milan CRMT\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\netcoreapp3.1\RockPaperScissorsLizardSpock.runtimeconfig.json
+C:\Users\Milan CRMT\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\netcoreapp3.1\RockPaperScissorsLizardSpock.runtimeconfig.dev.json
+C:\Users\Milan CRMT\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\netcoreapp3.1\RockPaperScissorsLizardSpock.dll
+C:\Users\Milan CRMT\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\bin\Debug\netcoreapp3.1\RockPaperScissorsLizardSpock.pdb
+C:\Users\Milan CRMT\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\netcoreapp3.1\RockPaperScissorsLizardSpock.csprojAssemblyReference.cache
+C:\Users\Milan CRMT\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\netcoreapp3.1\RockPaperScissorsLizardSpock.csproj.CoreCompileInputs.cache
+C:\Users\Milan CRMT\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\netcoreapp3.1\RockPaperScissorsLizardSpock.AssemblyInfoInputs.cache
+C:\Users\Milan CRMT\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\netcoreapp3.1\RockPaperScissorsLizardSpock.AssemblyInfo.cs
+C:\Users\Milan CRMT\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\netcoreapp3.1\RockPaperScissorsLizardSpock.dll
+C:\Users\Milan CRMT\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\netcoreapp3.1\RockPaperScissorsLizardSpock.pdb
+C:\Users\Milan CRMT\source\repos\RockPaperScissorsLizardSpock\RockPaperScissorsLizardSpock\obj\Debug\netcoreapp3.1\RockPaperScissorsLizardSpock.genruntimeconfig.cache
